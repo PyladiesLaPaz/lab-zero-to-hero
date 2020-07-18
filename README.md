@@ -1,5 +1,5 @@
 # Pyladies-La-Paz
-### Sesion 1
+### SESION 1
 
 Introducción a Python
   - Instalación
